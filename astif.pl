@@ -5,7 +5,7 @@
 % Idee pt GA:
 %   Control System that manage tactics
 %   ...
-% Amazon Web Server plus Decker altfel cacat
+
 
 %:- module(artif,
 %  [
